@@ -8,7 +8,7 @@ This fork compiles the [vial-gui (Keychron Edition)](https://github.com/tymon331
 
 ## Live Demo
 
-Visit [vial.tymon3310.dev](https://vial.tymon3310.dev) to use this fork.
+Visit [leplatin.github.io](https://leplatin.github.io/vial-web/) to use this fork.
 
 > **Requires a Chromium-based browser** — Google Chrome, Microsoft Edge, Brave, Opera, or Vivaldi. Firefox and Safari do not support the WebHID API and will not work.
 
